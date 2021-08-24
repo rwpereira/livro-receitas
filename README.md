@@ -1,7 +1,9 @@
 # Livro de Receitas:cake:
 
-Olá! bem bindo ao meu livro de receitas
+Olá! bem vindo ao meu livro de receitas
 
 - Strogonoff de Frango
+
+- Pave
 
   
